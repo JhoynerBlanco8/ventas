@@ -1,0 +1,200 @@
+
+body{
+    background-color: white ;
+    margin: 0 auto;
+    padding: 0%;
+}
+.column1 {    
+    right: 750px;
+    width: 100%;   
+    padding: 10px;
+    height: 430px;
+    position: relative;
+    bottom: 500px;  
+  }
+  .column2 {    
+    right: 485px;
+    width: 100%;   
+    padding: 10px;
+    height: 160px;
+    position: relative;
+    bottom: 950px;
+  }
+  .column3 {    
+    right: 485px;
+    width: 100%;   
+    padding: 10px;
+    height: 195px;
+    position: relative;
+    bottom: 980px;
+  }
+  .column4 {    
+    right: 195px;
+    width: 68%;   
+    padding: 10px;
+    height: 300px;
+    position: relative;
+    bottom: 1345px;
+  }
+  
+    header{
+background-color: #64b3f4;
+height: 63px;
+width: 1007px;
+margin: 0 auto;
+position: relative;
+    }
+
+    header img{
+position: absolute;
+width: 70px;
+height: 60px;
+top: 5px;
+left: 150px;
+
+    }
+    div img{
+        position: absolute;
+        width: 200px;
+        top: 90px;
+        left: 770px;
+        margin: 0 auto; 
+    }
+header p{
+    position: absolute;
+    bottom: 20;
+    left: 30px;
+    width: 50px;
+    height: 50;
+}
+header ul{
+    position: absolute;
+    bottom: 10px;
+    right: 100px;
+    
+}
+header ul li{
+display: inline-block;
+font-weight: 750;
+font-size: 15px;
+margin-left: 35px;
+}
+#formulario{
+    position: absolute;
+    width: 250px;
+    top: 300px;
+    left: 755px;
+    margin: 0 auto; 
+}
+body h5{
+    position: absolute;
+    width: 750px;
+    top: 50px;
+    left: 5px;
+    
+}
+footer h2{
+    position: absolute;
+    bottom: 30px;
+    left: 190px;
+    width: 180px;
+    height: 50px;
+    top: 670px;
+}
+footer img{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 720px;
+    left: 90px;
+}
+.pie2{
+    position: absolute;
+    width: 50px;
+    height: 45px;
+    top: 800px;
+    left: 90px; 
+}
+.pie3{
+    position: absolute;
+    width: 50px;
+    height:60px;
+    top: 880px;
+    left: 90px; 
+}
+.pie4{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    top: 720px;
+    left: 490px;
+}
+.para-0{
+    position: absolute;
+    width: 161px;
+    height: 0px;
+    top: 650px;
+    left: 180px;
+}
+.para-1{
+    position: absolute;
+    width: 161px;
+    height: 0px;
+    top: 650px;
+    left: 510px;
+}
+.para1{
+    position: absolute;
+    width: 161px;
+    height: 0px;
+    top: 710px;
+    left: 150px;
+}
+.para2{
+    position: absolute;
+    width: 161px;
+    height: 0px;
+    top: 800px;
+    left: 150px;
+}
+.para3{
+    position: absolute;
+    width: 161px;
+    height: 0px;
+    top: 890px;
+    left: 145px;
+}
+.para4{
+    position: absolute;
+    width: 161px;
+    height: 0px;
+    top: 730Px;
+    left: 550px;
+}
+.para5{
+    position: absolute;
+    width: 161px;
+    height: 0px;
+    top: 760Px;
+    left: 550px;
+}
+footer ul{
+    position: relative;
+    bottom: 50px;
+    right: 100px;
+    top: 100px;
+    height: 100px;
+    }
+footer #LISTAU ul li{
+    display: inline-block;
+    position: relative;
+    font-weight: 20px;
+    width: 150px;
+    font-size: 15px;
+    margin: 15px;
+    height: 10px;
+    top: 990px;
+    left: 98px;
+    }
+   
+   
